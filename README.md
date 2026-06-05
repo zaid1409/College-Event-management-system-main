@@ -48,5 +48,5 @@
 > Feel free to open issues or submit pull requests.
 
 📞 Contact
->Vaibhav Sharma - sharmavaibhav447@gmail.com
+>Mohd. Zaid - mdzaid140904@gmail.com
 
